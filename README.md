@@ -7,6 +7,10 @@ Just clone the repo:
 ```bash
 git clone https://github.com/youshitsune/flash
 ```
+Then install needed packages:
+```bash
+pip install -r requirements.txt
+```
 
 ## Usage
 Run it:
